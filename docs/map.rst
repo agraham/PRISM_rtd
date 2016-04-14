@@ -1,20 +1,15 @@
 Map Page
 ========
 
-Map Page
+The map page allows for viewing SCAT and pre-SCAT data and data layers in web map.  Available data and layers are presented in the Overlays menu (discussed below).  These Overlays include data stored within the PRISM application (i.e. Observations, Media, etc.) and data layers served to the web map via external GIS servers.
 
-Base Map
+Basemaps
 --------
 
-- Repository for SCAT and pre-SCAT data in a web application
-- Search and Mapping functions allow the ability to quickly access data
-- Photographs and GPS tracklines can be queried and downloaded
-- Standard reports (SOS, STR, daily summaries) can be viewed online or printed
+Basemaps options can be selected by clicking on the Basemap selector in the lower left corner of the map.  Standard basemap options are Satellite Imagery, Topographic Map and Open Street Map.
 
-Layers
+Overlays
 ------------
 
-For additional information contact: Andy Graham
-- agraham@polarisappliedsciences.com
-- www.polarisappliedsciences.com
+Overlay options can be added/removed from the map using the Overlay selector in the lower left corner of the map.  Additional layers can be added using the Add Layer button.  
 

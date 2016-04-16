@@ -1,26 +1,102 @@
 Data Types (Resources)
 ========
 
-Data Types
+Data Types description....with links to Resources?
+
+Surveys
+--------
+Surveys are ...
+
+- **Entity 1** - description
+
+  * Entity option1
+  * Entity option2
+
+- **Entity 2** - description
+
+  * Entity option1
+  * Entity option2
 
 Segments
 --------
+Segments are ...
 
-- Repository for SCAT and pre-SCAT data in a web application
-- Search and Mapping functions allow the ability to quickly access data
-- Photographs and GPS tracklines can be queried and downloaded
-- Standard reports (SOS, STR, daily summaries) can be viewed online or printed
+- **Entity 1** - description
 
-Surveys
-------------
+  * Entity option1
+  * Entity option2
 
-For additional information contact: Andy Graham
-- agraham@polarisappliedsciences.com
-- www.polarisappliedsciences.com
+- **Entity 2** - description
+
+  * Entity option1
+  * Entity option2
 
 Observations
-------------
+-------------
+Observations are ...
 
-For additional information contact: Andy Graham
-- agraham@polarisappliedsciences.com
-- www.polarisappliedsciences.c
+- **Entity 1** - description
+
+  * Entity option1
+  * Entity option2
+
+- **Entity 2** - description
+
+  * Entity option1
+  * Entity option2
+
+Zones
+--------
+Zones are ...
+
+- **Entity 1** - description
+
+  * Entity option1
+  * Entity option2
+
+- **Entity 2** - description
+
+  * Entity option1
+  * Entity option2
+  
+Pits
+--------
+Pits are ...
+
+- **Entity 1** - description
+
+  * Entity option1
+  * Entity option2
+
+- **Entity 2** - description
+
+  * Entity option1
+  * Entity option2
+  
+Media
+--------
+Media are ...
+
+- **Entity 1** - description
+
+  * Entity option1
+  * Entity option2
+
+- **Entity 2** - description
+
+  * Entity option1
+  * Entity option2
+  
+Shoreline Treatment Recommendations
+------------------------------------
+Shoreline Treatment Recommendations are ...
+
+- **Entity 1** - description
+
+  * Entity option1
+  * Entity option2
+
+- **Entity 2** - description
+
+  * Entity option1
+  * Entity option2

@@ -13,7 +13,7 @@ Popular Searches are initially presented on the Search Page, allowing key search
 Search bar
 --------
 
-The Search bar at the top of the page allows for entry of keywords and data attributes to filter search results.  The text entered needs to  match data fields associated with the data resources in PRISM.  Search suggestions with the associated data field (in parentheses) will auto-populate  These data fields are detailed in Appendix A.
+The Search bar at the top of the page allows for entry of keywords and data attributes to filter search results.  The text entered needs to  match data fields associated with the data resources in PRISM.  Search suggestions with the associated data field (in parentheses) will auto-populate  These data fields are detailed on the `Data Types (Resources) <datatypes.html>`_ page.
 
 Example Search bar entries and results:
 

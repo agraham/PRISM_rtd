@@ -1,21 +1,31 @@
 Data Types (Resources)
 ========
 
-Data Types description....with links to Resources?
+Data Types (or Data Resources) are the items that can be collected and stored within PRISM.  These include Surveys, Segments, Observations, Zones, Pits, Media and Shoreline Treatment Recommedations.  These resources can be queried, viewed and exported within the PRISM application.
 
 Surveys
 --------
-Surveys are ...
+Surveys are specific to a single team on a single day.
 
-- **Entity 1** - description
+- **Team Number** - A numeric field for the team number (i.e. 1, 2, 7, etc.).
 
-  * Entity option1
-  * Entity option2
+- **Survey Date** - The date the survey took place on.
 
-- **Entity 2** - description
+- **Season** - The season the survey took place in.
 
-  * Entity option1
-  * Entity option2
+  * *Shoreline/Lake/River/Stream*
+   * Wet
+   * Dry
+   * Winter/Ice
+  * *Arctic*
+   * Breakup/Thaw
+   * Open Water
+   * Freeze up transition
+   * Frozen period
+
+- **Logistics/Safety** - Text field describing logistical and safety information for the entire survey.
+
+- **Survey Summary** - Text field describing survey activities and observations.
 
 Segments
 --------

@@ -31,7 +31,7 @@ Clicking on the *Location Filter* brings up the map and shows all resources with
 Time Filter
 ------------
 
-Using the *Time Filter* allows one to filter data resources by dates associated with the resources. *8Observation Start Time*, *Survey Date*, *Media Date*, *STR Status Data* or *Sample Date* can all be searched for by setting the date qualifier to either *Before*, *On*, or *After* a selected date.
+Using the *Time Filter* allows one to filter data resources by dates associated with the resources. *Observation Start Time*, *Survey Date*, *Media Date*, *STR Status Data* or *Sample Date* can all be searched for by setting the date qualifier to either *Before*, *On*, or *After* a selected date.
 
 Export
 ------------

@@ -7,11 +7,11 @@ Surveys
 --------
 Surveys are specific to a single team on a single day.
 
-- **Team Number** - A numeric field for the team number (i.e. 1, 2, 7, etc.).
+- **Team Number** - Dropown list, team number (i.e. 1, 2, 7, etc.).
 
-- **Survey Date** - The date the survey took place on.
+- **Survey Date** - Date field, day the survey took place on.
 
-- **Season** - The season the survey took place in.
+- **Season** - Dropdown list, season the survey took place in.
 
   * *Shoreline/Lake/River/Stream*
    * Wet
@@ -23,24 +23,51 @@ Surveys are specific to a single team on a single day.
    * Freeze up transition
    * Frozen period
 
-- **Logistics/Safety** - Text field describing logistical and safety information for the entire survey.
+- **Logistics/Safety** - Text field, describes logistical and safety information for the entire survey.
 
-- **Survey Summary** - Text field describing survey activities and observations.
+- **Survey Summary** - Text field, describes survey activities and observations.
 
 Segments
 --------
-Segments are ...
+Segments are geographic locations on a shoreline with a start and end point and usually defined by a homogenous shoreline type.
 
-- **Entity 1** - description
+- **Segment ID** - Text field, a unique identifier for each Segment
 
-  * Entity option1
-  * Entity option2
+- **Segment Length** - Numeric field, the length of the segment in meters.
 
-- **Entity 2** - description
+- **Operational Division** - Text field, identifier of the OPS division the segment resides in.
 
-  * Entity option1
-  * Entity option2
+- **Bank Position (River/Stream ony)** - Dropdown list, identifies the descending side of the river/stream the segment is on.
 
+  * Left
+  * Middle
+  * Right
+
+- **Administrative Subdivision** - Text field, lists the Subdivision Name and a dropbown box with options for Subdivision Type/Category.
+
+  * *Subdivision Type/Category*
+   * State
+   * County
+   * Municipality
+   * Landowner
+   * Local Name
+
+- **Mapsheet** - Text field, identifier of possible Map Sheets the Segment may be referenced on.
+
+- **Fetch Window** - Dropdown list, the angle (degrees) of potential wave exposure of the segment.
+
+  * < 45
+  * 45 - 120
+  * 121 - 180
+  * > 180
+  
+- **Fetch Distance** - Dropdown list, the potential distance (km) over water the wind may blow waves towards the segment.
+
+  * < 5 km
+  * 5 - 10 km
+  * 10 - 50 km
+  * > 50 km
+  
 Observations
 -------------
 Observations are ...

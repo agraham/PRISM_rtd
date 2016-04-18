@@ -43,6 +43,7 @@ Segments are geographic locations on a shoreline with a start and end point and 
   * Middle
   * Right
 
+
 - **Administrative Subdivision** - Text field, lists the Subdivision Name and a dropbown box with options for Subdivision Type/Category.
 
   * *Subdivision Type/Category*
@@ -60,14 +61,14 @@ Segments are geographic locations on a shoreline with a start and end point and 
   * 45 - 120
   * 121 - 180
   * > 180
-  
+ 
 - **Fetch Distance** - Dropdown list, the potential distance (km) over water the wind may blow waves towards the segment.
 
   * < 5 km
   * 5 - 10 km
   * 10 - 50 km
   * > 50 km
-  
+ 
 Observations
 -------------
 Observations are ...

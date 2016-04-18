@@ -43,7 +43,6 @@ Segments are geographic locations on a shoreline with a start and end point and 
   * Middle
   * Right
 
-
 - **Administrative Subdivision** - Text field, lists the Subdivision Name and a dropbown box with options for Subdivision Type/Category.
 
   * *Subdivision Type/Category*

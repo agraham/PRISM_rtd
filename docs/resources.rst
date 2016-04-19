@@ -76,18 +76,96 @@ Segments are geographic locations on a shoreline with a start and end point and 
  
 Observations
 -------------
-Observations are ...
+Observations are data collected for one Segment on one day by a team.  This is the traditional SOS form (incuding Zones/Pits below).
 
-- **Entity 1** - description
+- **Observation Start/End Time** - Date field, start and end date and times.
+
+- **Survey Form** - Dropbown box, form type used for Observation.
+
+  * CSOS
+  * Lake
+  * River
+  * Stream
+  * Tidal Flat
+  * Mangrove
+  * Wetland
+  * Coral Reef
+  * Arctic
+  * Winter-CSOS
+  * Winter-Lake
+  * Winter-River
+  * Winter-Stream
+  * Winter-Tidal Flat
+  * Winter-Wetland
+  * Pre-Spill Shoreline
+  * Pre-Spill River/Stream
+  * Pre-Spill Lake
+  * Pre-Spill Arctic
+
+- **Survey Type** - Dropdown box, type of survey or purpose of the Observation.
+
+  * SCAT
+  * PIST
+  * SIR
+  * Other
+
+- **Survey Method** - Dropdown box, vehicle used for Observation.
+
+  * Foot
+  * Boat
+  * Airboat
+  * Helicopter
+  * Car
+  * ATV
+  * Aircraft
+  * Overlook
+  * Imagery
+  * Video
+  * Other
+
+- **Entire Segment Surveyed** - YES/NO, does the Observation include the entire Segment length.
+
+- **Percent Segment Surveyed** - Numeric, what percent of the Segment was surveyed.
+
+- **Areas without Zones are NOO** - YES/NO, if there is not a Zone on part of the Segment that area is considered NOO.
+
+- **Weather** - Dropdown box with multiple additions, weather observed during the Observation.
 
   * Entity option1
   * Entity option2
 
-- **Entity 2** - description
+- **Tide Height** - Numeric, tide height in feet.
+
+- **Tide Direction** - Dropdown box, direction of tide during Observation.
+
+  * Rising
+  * Falling
+  * Slack
+
+- **Water level** - Dropdown box, water level relative to that predicted.
+
+  * Entity option1
+  * Entity option2
+ 
+ - **Estimated Water Change (River/Stream)** - Dropdown box, estimated water level change over the next 7 days.
+
+  * Rising
+  * Falling
+  * Same
+  * Unknown
+
+ - **Shoreline Waves** - Dropdown box, waves height observed on shoreline.
 
   * Entity option1
   * Entity option2
 
+ - **Segment Comments** - Text field, general comments specific to the Observation.
+ 
+ - **SCAT Status** - Dropdown box, defined Status for the Observation/Segment at that time.
+
+  * Entity option1
+  * Entity option2
+ 
 Zones
 --------
 Zones are ...

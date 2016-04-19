@@ -175,7 +175,7 @@ Observations are data collected for one Segment on one day by a team.  This is t
  
 Zones
 --------
-Zones are ...
+Zones are part of an Observation and detail the surface oiling observed.  There can be multiple Zones within an Observation.
 
 - **Entity 1** - description
 
@@ -189,7 +189,7 @@ Zones are ...
   
 Pits
 --------
-Pits are ...
+Pits are part of a Zone and detail the subsurface oiling observed in the Zone.  There can be multiple Pits within a Zone.
 
 - **Entity 1** - description
 
@@ -203,7 +203,7 @@ Pits are ...
   
 Media
 --------
-Media are ...
+Media are uploaded files to PRISM and can be Photographs, GPX files (GPS files) or scanned documents.
 
 - **Entity 1** - description
 
@@ -217,7 +217,7 @@ Media are ...
   
 Shoreline Treatment Recommendations
 ------------------------------------
-Shoreline Treatment Recommendations are ...
+Shoreline Treatment Recommendations (STRs) detail the recommended work to be completed based on an Observation.  STRs are made up of one or many Zones.
 
 - **Entity 1** - description
 

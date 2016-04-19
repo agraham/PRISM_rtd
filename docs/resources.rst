@@ -75,41 +75,45 @@ Observations
 -------------
 Observations are data collected for one Segment on one day by a team.  This is the traditional SOS form (incuding Zones/Pits below).
 
-- **QA_STATUS**
-- **TIME_END**  
-- **TIME_START**  
-- **SURVEY_TYPE** 
-- **FORM_TYPE** 
-- **SURVEY_METHOD** 
-- **WEATHER** 
-- **TIDE_HEIGHT**
-- **TIDE_DIRECTION**
-- **WATER_LEVEL**
-- **ESTIMATED_WATER_CHANGE**
-- **ENTIRE_SEGMENT_SURVEYED**
-- **SURVEYED_AREAS_NOO**
-- **PERCENT_SEGMENT_SURVEYED**
-- **AVG_INTERTIDAL_WIDTH**
-- **MAX_INTERTIDAL_WIDTH**
-- **BACKSHORE_WIDTH**
-- **UITZ_SHORELINE**
-- **UITZ_SHORELINE_TYPE**
-- **OBSERVATION_ESI**
-- **ESI_TYPE**
-- **DOMINANT_VEGETATION_TYPE**
-- **DOMINANT_CORAL_TYPES**
-- **BACKSHORE**
-- **BACKSHORE_TYPE**
-- **RIVER_CHANNEL_PATTERN**
-- **RIVER_VALLEY_FORM**
-- **CLIFF_HEIGHT**
-- **CLIFF_SLOPE**
-- **PRIMARY_BACKSHORE_SUBSTRATE_TYPE**
-- **BACKSHORE_VEGETATION_COVER**
-- **CHANNEL_WIDTH**
-- **ESTIMATED_WATER_DEPTH**
-- **BAR_SHOAL_SUBSTRATE**
-- **STREAM_BED_FEATURE**
+- **QA_STATUS** - Dropdown box, status of Observation in the QAQC process.
+- **TIME_END** - Date field, date and time Observation ended.
+- **TIME_START** - Date field, date and time Observaton started.
+- **SURVEY_TYPE** - Dropdown box, survey type (or goals) of the Observation.
+- **FORM_TYPE** - Dropdown box, form type used.
+- **SURVEY_METHOD** - Dropdown box, vehicle used.
+- **WEATHER** - Dropdown box w/ multiple additions, weather.
+- **TIDE_HEIGHT** - Numeric field, tide height in feet.
+- **TIDE_DIRECTION** - Dropdown box, tide direction.
+- **WATER_LEVEL** - Dropdown box, predicted water level.
+- **ESTIMATED_WATER_CHANGE** - Dropdown box, estimated water level change over the next 7 days (River/Stream).
+- **ENTIRE_SEGMENT_SURVEYED** - YES/NO, was the entire segment surveyed?
+- **SURVEYED_AREAS_NOO** - YES/NO, areas that were surveyed without a zone are considered NOO.
+- **PERCENT_SEGMENT_SURVEYED** - Numeric field, % of segment surveyed.
+- **AVG_INTERTIDAL_WIDTH** - Numeric field
+- **MAX_INTERTIDAL_WIDTH** - Numeric field
+- **BACKSHORE_WIDTH** - Numeric field
+- **UITZ_SHORELINE** - Dropdown box w/ multiple additions, UITZ shoreline type.
+- **UITZ_SHORELINE_TYPE** - PRIMARY/SECONDARY, qualifies the UTIZ shoreline types chosen above.
+- **LITZ_SHORELINE** - Dropdown box w/ multiple additions, LITZ shoreline type.
+- **LITZ_SHORELINE_TYPE** - PRIMARY/SECONDARY, qualifies the LITZ shoreline types chosen above.
+- **SUTZ_SHORELINE** - Dropdown box w/ multiple additions, SUTZ shoreline type.
+- **SUTZ_SHORELINE_TYPE** - PRIMARY/SECONDARY, qualifies the SUTZ shoreline types chosen above.
+- **OBSERVATION_ESI** - Dropdown box w/ multiple additions, ESI shoreline type.
+- **ESI_TYPE** - PRIMARY/SECONDARY, qualifies the ESI shoreline types chosen above.
+- **DOMINANT_VEGETATION_TYPE** - Text field, describes the dominant vegetation types present.
+- **DOMINANT_CORAL_TYPES** - Text field, describes the dominant coral types present.
+- **BACKSHORE** - Dropdown box w/ multiple additions, Backshore type.
+- **BACKSHORE_TYPE** - PRIMARY/SECONDARY, qualifies the Backshore types chosen above.
+- **STREAM_BED_FEATURE** - Dropdown box, stream bed character for River/Streams.
+- **RIVER_CHANNEL_PATTERN** - Dropdown box, channel pattern for River/Streams.
+- **RIVER_VALLEY_FORM** - Dropdown box, valley form for River/Streams.
+- **CLIFF_HEIGHT** - Numeric field
+- **CLIFF_SLOPE** - Dropdown box
+- **PRIMARY_BACKSHORE_SUBSTRATE_TYPE** - Dropdown box
+- **BACKSHORE_VEGETATION_COVER** - Dropdown box, describes the vegetation cover in the backshore.
+- **CHANNEL_WIDTH** - Numeric field, width of the River/Stream channel in meters.
+- **ESTIMATED_WATER_DEPTH** - Numeric field, depth of the River/Stream channel in meters.
+- **BAR_SHOAL_SUBSTRATE** - Dropdown box, substrate of Bar/Shoals if present.
 - **FEATURE**
 - **FEATURE_TYPE**
 - **OPERATIONAL_ACCESS**
@@ -121,10 +125,6 @@ Observations are data collected for one Segment on one day by a team.  This is t
 - **DEBRIS_TYPE**
 - **SURVEY_COMMENTS**
 - **SHORELINE_WAVES**
-- **LITZ_SHORELINE**
-- **LITZ_SHORELINE_TYPE**
-- **SUTZ_SHORELINE**
-- **SUTZ_SHORELINE_TYPE**
 - **OTHER_POTENTIAL_OIL_BEHAVIOR**
 - **HUMAN_USE**
 - **AVG_WATER_DEPTH_CORAL**

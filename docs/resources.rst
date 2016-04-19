@@ -75,93 +75,103 @@ Observations
 -------------
 Observations are data collected for one Segment on one day by a team.  This is the traditional SOS form (incuding Zones/Pits below).
 
-- **Observation Start/End Time** - Date field, start and end date and times.
-
-- **Survey Form** - Dropbown box, form type used for Observation.
-
-  * CSOS
-  * Lake
-  * River
-  * Stream
-  * Tidal Flat
-  * Mangrove
-  * Wetland
-  * Coral Reef
-  * Arctic
-  * Winter-CSOS
-  * Winter-Lake
-  * Winter-River
-  * Winter-Stream
-  * Winter-Tidal Flat
-  * Winter-Wetland
-  * Pre-Spill Shoreline
-  * Pre-Spill River/Stream
-  * Pre-Spill Lake
-  * Pre-Spill Arctic
-
-- **Survey Type** - Dropdown box, type of survey or purpose of the Observation.
-
-  * SCAT
-  * PIST
-  * SIR
-  * Other
-
-- **Survey Method** - Dropdown box, vehicle used for Observation.
-
-  * Foot
-  * Boat
-  * Airboat
-  * Helicopter
-  * Car
-  * ATV
-  * Aircraft
-  * Overlook
-  * Imagery
-  * Video
-  * Other
-
-- **Entire Segment Surveyed** - YES/NO, does the Observation include the entire Segment length.
-
-- **Percent Segment Surveyed** - Numeric, what percent of the Segment was surveyed.
-
-- **Areas without Zones are NOO** - YES/NO, if there is not a Zone on part of the Segment that area is considered NOO.
-
-- **Weather** - Dropdown box with multiple additions, weather observed during the Observation.
-
-  * Entity option1
-  * Entity option2
-
-- **Tide Height** - Numeric, tide height in feet.
-
-- **Tide Direction** - Dropdown box, direction of tide during Observation.
-
-  * Rising
-  * Falling
-  * Slack
-
-- **Water level** - Dropdown box, water level relative to that predicted.
-
-  * Entity option1
-  * Entity option2
- 
-- **Estimated Water Change (River/Stream)** - Dropdown box, estimated water level change over the next 7 days.
-
-  * Rising
-  * Falling
-  * Same
-  * Unknown
-
-- **Shoreline Waves** - Dropdown box, waves height observed on shoreline.
-
-  * Entity option1
-  * Entity option2
-
-- **Segment Comments** - Text field, general comments specific to the Observation.
- 
-- **SCAT Status** - Dropdown box, defined Status for the Observation/Segment at that time.
-
-  * Entity option1
-  * Entity option2
+- **QA_STATUS**
+- **TIME_END**  
+- **TIME_START**  
+- **SURVEY_TYPE** 
+- **FORM_TYPE** 
+- **SURVEY_METHOD** 
+- **WEATHER** 
+- **TIDE_HEIGHT**
+- **TIDE_DIRECTION**
+- **WATER_LEVEL**
+- **ESTIMATED_WATER_CHANGE**
+- **ENTIRE_SEGMENT_SURVEYED**
+- **SURVEYED_AREAS_NOO**
+- **PERCENT_SEGMENT_SURVEYED**
+- **AVG_INTERTIDAL_WIDTH**
+- **MAX_INTERTIDAL_WIDTH**
+- **BACKSHORE_WIDTH**
+- **UITZ_SHORELINE**
+- **UITZ_SHORELINE_TYPE**
+- **OBSERVATION_ESI**
+- **ESI_TYPE**
+- **DOMINANT_VEGETATION_TYPE**
+- **DOMINANT_CORAL_TYPES**
+- **BACKSHORE**
+- **BACKSHORE_TYPE**
+- **RIVER_CHANNEL_PATTERN**
+- **RIVER_VALLEY_FORM**
+- **CLIFF_HEIGHT**
+- **CLIFF_SLOPE**
+- **PRIMARY_BACKSHORE_SUBSTRATE_TYPE**
+- **BACKSHORE_VEGETATION_COVER**
+- **CHANNEL_WIDTH**
+- **ESTIMATED_WATER_DEPTH**
+- **BAR_SHOAL_SUBSTRATE**
+- **STREAM_BED_FEATURE**
+- **FEATURE**
+- **FEATURE_TYPE**
+- **OPERATIONAL_ACCESS**
+- **OPERATIONAL_ACCESS_TYPE**
+- **ACCESS_RESTRICTIONS_FEATURES**
+- **DEBRIS_AMOUNT**
+- **DEBRIS_AMOUNT_UNITS**
+- **OILED_DEBRIS**
+- **DEBRIS_TYPE**
+- **SURVEY_COMMENTS**
+- **SHORELINE_WAVES**
+- **LITZ_SHORELINE**
+- **LITZ_SHORELINE_TYPE**
+- **SUTZ_SHORELINE**
+- **SUTZ_SHORELINE_TYPE**
+- **OTHER_POTENTIAL_OIL_BEHAVIOR**
+- **HUMAN_USE**
+- **AVG_WATER_DEPTH_CORAL**
+- **POTENTIAL_NEARBY_ACCESS**
+- **ROAD_ACCESS_TYPE**
+- **SITE_ACCESS_STAGING**
+- **SITE_ACCESS_STAGING_TYPE**
+- **SITE_ACCESS_INTERTIDAL**
+- **SITE_ACCESS_INTERTIDAL_TYPE**
+- **SITE_ACCESS_SUBTIDAL**
+- **SITE_ACCESS_SUBTIDAL_TYPE**
+- **ACCESS_ALONGSHORE_HEAVY_EQ_FEASIBILITY**
+- **ACCESS_ALONGSHORE_HEAVY_EQ_FEASIBILITY_TYPE**
+- **BEARING_CAPACITY_HEAVY_EQ_FEASIBILITY**
+- **BEARING_CAPACITY_HEAVY_EQ_FEASIBILITY_TYPE**
+- **BEACH_SLOPE_HEAVY_EQ_FEASIBILITY**
+- **BEACH_SLOPE_HEAVY_EQ_FEASIBILITY_TYPE**
+- **MAX_DISTANCE_TO_TEMP_STORAGE**
+- **SEGMENT_PROTECTION_OBJECTIVES**
+- **SEGMENT_PROTECTION_STRATEGIES**
+- **POTENTIAL_PROTECTION_OPTIONS**
+- **POTENTIAL_PROTECTION_OPTIONS_TYPE**
+- **SHORELINE_TREATMENT_OBJECTIVES**
+- **SHORELINE_TREATMENT_STRATEGIES**
+- **POTENTIAL_TREATMENT_OPTIONS**
+- **POTENTIAL_TREATMENT_OPTIONS_TYPE**
+- **SNOW_CONDITION**
+- **SNOW_CONDITION_TYPE**
+- **FROZEN_SPRAY_CONDITION**
+- **FROZEN_SPRAY_CONDITION_TYPE**
+- **FROZEN_SWASH_CONDITION**
+- **FROZEN_SWASH_CONDITION_TYPE**
+- **ICE_FOOT_CONDITION**
+- **ICE_FOOT_CONDITION_TYPE**
+- **ICE_PUSH_RIDGE_CONDITION**
+- **ICE_PUSH_RIDGE_CONDITION_TYPE**
+- **GROUNDED_FLOES_CONDITION**
+- **GROUNDED_FLOES_CONDITION_TYPE**
+- **GLACIER_ICE_CONDITION**
+- **GLACIER_ICE_CONDITION_TYPE**
+- **NEARSHORE_ICE_CONCENTRATION**
+- **NEARSHORE_ICE_FORM**
+- **NEARSHORE_ICE_AGE_AND_THICKNESS**
+- **FAST_ICE**
+- **TIDAL_CRACKS**
+- **SURFACE_BEARING_CAPACITY**
+- **SCAT_STATUS**
  
 Zones
 --------

@@ -38,13 +38,11 @@ Segments are geographic locations on a shoreline with a start and end point and 
 - **Operational Division** - Text field, identifier of the OPS division the segment resides in.
 
 - **Bank Position (River/Stream ony)** - Dropdown list, identifies the descending side of the river/stream the segment is on.
-
   * Left
   * Middle
   * Right
 
 - **Administrative Subdivision** - Text field, lists the Subdivision Name and a dropbown box with options for Subdivision Type/Category.
-
   * *Subdivision Type/Category*
    * State
    * County
@@ -55,18 +53,18 @@ Segments are geographic locations on a shoreline with a start and end point and 
 - **Mapsheet** - Text field, identifier of possible Map Sheets the Segment may be referenced on.
 
 - **Fetch Window** - Dropdown list, the angle (degrees) of potential wave exposure of the segment.
-
   * < 45
   * 45 - 120
   * 121 - 180
   * > 180
+  
  
 - **Fetch Distance** - Dropdown list, the potential distance (km) over water the wind may blow waves towards the segment.
-
   * < 5 km
   * 5 - 10 km
   * 10 - 50 km
   * > 50 km
+ 
  
 Observations
 -------------

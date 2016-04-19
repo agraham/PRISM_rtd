@@ -45,7 +45,6 @@ Segments are geographic locations on a shoreline with a start and end point and 
   * Middle
   * Right
 
-
 - **Administrative Subdivision** - Text field, lists the Subdivision Name and a dropbown box with options for Subdivision Type/Category.
 
   * *Subdivision Type/Category*
@@ -64,15 +63,13 @@ Segments are geographic locations on a shoreline with a start and end point and 
   * 45 - 120
   * 121 - 180
   * > 180
-  
- 
+   
 - **Fetch Distance** - Dropdown list, the potential distance (km) over water the wind may blow waves towards the segment.
 
   * < 5 km
   * 5 - 10 km
   * 10 - 50 km
   * > 50 km
- 
  
 Observations
 -------------
@@ -147,21 +144,21 @@ Observations are data collected for one Segment on one day by a team.  This is t
   * Entity option1
   * Entity option2
  
- - **Estimated Water Change (River/Stream)** - Dropdown box, estimated water level change over the next 7 days.
+- **Estimated Water Change (River/Stream)** - Dropdown box, estimated water level change over the next 7 days.
 
   * Rising
   * Falling
   * Same
   * Unknown
 
- - **Shoreline Waves** - Dropdown box, waves height observed on shoreline.
+- **Shoreline Waves** - Dropdown box, waves height observed on shoreline.
 
   * Entity option1
   * Entity option2
 
- - **Segment Comments** - Text field, general comments specific to the Observation.
+- **Segment Comments** - Text field, general comments specific to the Observation.
  
- - **SCAT Status** - Dropdown box, defined Status for the Observation/Segment at that time.
+- **SCAT Status** - Dropdown box, defined Status for the Observation/Segment at that time.
 
   * Entity option1
   * Entity option2

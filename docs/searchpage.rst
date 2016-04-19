@@ -36,6 +36,12 @@ Using the *Time Filter* allows one to filter data resources by dates associated 
 Export
 ------------
 
-For additional information contact: Andy Graham
-- agraham@polarisappliedsciences.com
-- www.polarisappliedsciences.com
+Search results can be exported by clicking on the *Tools* button in the upper right.  Export can be in 3 possible formats:
+
+- **.CSV** - comma delimited values (Excel viewable)
+- **.KML** - keyhole markup language (Google Earth viewable)
+- **.SHP** - shapefile (GIS software viewable)
+
+Only the results that show up in the Search results list will be exported.  
+
+Only Data Resources with geographic locations directly associated with them will show up in the **.KML** and **.SHP** exports.  These Resources inlcude Surveys, Segments, Zones, Pits and Media.

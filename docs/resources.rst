@@ -119,58 +119,56 @@ Observations are data collected for one Segment on one day by a team.  This is t
 - **OPERATIONAL_ACCESS** - Dropdown box, Alongshore, Backshore and Backshore Staging Access items.
 - **OPERATIONAL_ACCESS_TYPE** - YES/NO, confirmation of Features listed above.
 - **ACCESS_RESTRICTIONS_FEATURES** - Text field, additional Access features/restrictions.
+- **SURFACE_BEARING_CAPACITY** - Dropdown box, list of vehicles for surface bearing capacity in tidal flats.
 - **DEBRIS_AMOUNT** - Numeric field.
 - **DEBRIS_AMOUNT_UNITS** - Dropdown box.
 - **OILED_DEBRIS** - YES/NO.
 - **DEBRIS_TYPE** - Dropdown box, list of primary debris type.
 - **SURVEY_COMMENTS** - Text field, summary comments for Observation.
-- **HUMAN_USE**
-- **AVG_WATER_DEPTH_CORAL**
-- **POTENTIAL_NEARBY_ACCESS**
-- **ROAD_ACCESS_TYPE**
-- **SITE_ACCESS_STAGING**
-- **SITE_ACCESS_STAGING_TYPE**
-- **SITE_ACCESS_INTERTIDAL**
-- **SITE_ACCESS_INTERTIDAL_TYPE**
-- **SITE_ACCESS_SUBTIDAL**
-- **SITE_ACCESS_SUBTIDAL_TYPE**
-- **ACCESS_ALONGSHORE_HEAVY_EQ_FEASIBILITY**
-- **ACCESS_ALONGSHORE_HEAVY_EQ_FEASIBILITY_TYPE**
-- **BEARING_CAPACITY_HEAVY_EQ_FEASIBILITY**
-- **BEARING_CAPACITY_HEAVY_EQ_FEASIBILITY_TYPE**
-- **BEACH_SLOPE_HEAVY_EQ_FEASIBILITY**
-- **BEACH_SLOPE_HEAVY_EQ_FEASIBILITY_TYPE**
-- **MAX_DISTANCE_TO_TEMP_STORAGE**
-- **SEGMENT_PROTECTION_OBJECTIVES**
-- **SEGMENT_PROTECTION_STRATEGIES**
-- **POTENTIAL_PROTECTION_OPTIONS**
-- **POTENTIAL_PROTECTION_OPTIONS_TYPE**
-- **SHORELINE_TREATMENT_OBJECTIVES**
-- **SHORELINE_TREATMENT_STRATEGIES**
-- **POTENTIAL_TREATMENT_OPTIONS**
-- **POTENTIAL_TREATMENT_OPTIONS_TYPE**
-- **OTHER_POTENTIAL_OIL_BEHAVIOR**
-- **SNOW_CONDITION**
-- **SNOW_CONDITION_TYPE**
-- **FROZEN_SPRAY_CONDITION**
-- **FROZEN_SPRAY_CONDITION_TYPE**
-- **FROZEN_SWASH_CONDITION**
-- **FROZEN_SWASH_CONDITION_TYPE**
-- **ICE_FOOT_CONDITION**
-- **ICE_FOOT_CONDITION_TYPE**
-- **ICE_PUSH_RIDGE_CONDITION**
-- **ICE_PUSH_RIDGE_CONDITION_TYPE**
-- **GROUNDED_FLOES_CONDITION**
-- **GROUNDED_FLOES_CONDITION_TYPE**
-- **GLACIER_ICE_CONDITION**
-- **GLACIER_ICE_CONDITION_TYPE**
-- **NEARSHORE_ICE_CONCENTRATION**
-- **NEARSHORE_ICE_FORM**
-- **NEARSHORE_ICE_AGE_AND_THICKNESS**
-- **FAST_ICE**
-- **TIDAL_CRACKS**
-- **SURFACE_BEARING_CAPACITY**
-- **SCAT_STATUS**
+- **HUMAN_USE** - Dropdown box, list of potential human use activities observed.
+- **POTENTIAL_NEARBY_ACCESS** - Dropdown box.
+- **ROAD_ACCESS_TYPE** - Dropdown box.
+- **SITE_ACCESS_STAGING** - Dropdown box, list of vehicles to access staging area.
+- **SITE_ACCESS_STAGING_TYPE** - YES/NO/UNKNOWN, descriptor for vehicle access above.
+- **SITE_ACCESS_INTERTIDAL** - Dropdown box, list of vehicles to access intertidal area.
+- **SITE_ACCESS_INTERTIDAL_TYPE** - YES/NO/UNKNOWN, descriptor for vehicle access above.
+- **SITE_ACCESS_SUBTIDAL** - Dropdown box, list of vehicles to access subtidal/river channel area.
+- **SITE_ACCESS_SUBTIDAL_TYPE** - YES/NO/UNKNOWN, descriptor for vehicle access above.
+- **ACCESS_ALONGSHORE_HEAVY_EQ_FEASIBILITY** - Dropdown box, list of heavy equipment vehicles to access alongshore.
+- **ACCESS_ALONGSHORE_HEAVY_EQ_FEASIBILITY_TYPE** - GOOD/POOR/FAIR, descriptor for vehicles above.
+- **BEARING_CAPACITY_HEAVY_EQ_FEASIBILITY** - Dropdown box, list of heavy equipment vehicles for bearing capacity.
+- **BEARING_CAPACITY_HEAVY_EQ_FEASIBILITY_TYPE** - GOOD/POOR/FAIR, descriptor for vehicles above.
+- **BEACH_SLOPE_HEAVY_EQ_FEASIBILITY** - Dropdown box, list of heavy equipment vehicles for beachslope.
+- **BEACH_SLOPE_HEAVY_EQ_FEASIBILITY_TYPE** - GOOD/POOR/FAIR, descriptor for vehicles above.
+- **MAX_DISTANCE_TO_TEMP_STORAGE** - Numeric field, distance to temporary storage/staging area in km.
+- **SEGMENT_PROTECTION_OBJECTIVES** - Dropdown box, list of protection objectives.
+- **SEGMENT_PROTECTION_STRATEGIES** - Dropdown box, list of protection strategies.
+- **POTENTIAL_PROTECTION_OPTIONS** - Dropdown box, list of protection options.
+- **POTENTIAL_PROTECTION_OPTIONS_TYPE** - Dropdown box, qualifier for options above.
+- **SHORELINE_TREATMENT_OBJECTIVES** - Dropdown box, list of treatment objectives.
+- **SHORELINE_TREATMENT_STRATEGIES** - Dropdown box, list of treatment strategies.
+- **POTENTIAL_TREATMENT_OPTIONS** - Dropdown box, list of treatment options.
+- **POTENTIAL_TREATMENT_OPTIONS_TYPE** - Dropdown box, qualifier for options above.
+- **SNOW_CONDITION** - Text field, value for the Snow Condition Type below.
+- **SNOW_CONDITION_TYPE** - Dropdown box, list of items describing Snow Conditions.
+- **FROZEN_SPRAY_CONDITION** - Text field, value for the Frozen Spray Condition Type below.
+- **FROZEN_SPRAY_CONDITION_TYPE** - Dropdown box, list of items describing Frozen Spray Conditions.
+- **FROZEN_SWASH_CONDITION** - Text field, value for the Frozen Swash Condition Type below.
+- **FROZEN_SWASH_CONDITION_TYPE** - Dropdown box, list of items describing Frozen Swash Conditions.
+- **ICE_FOOT_CONDITION** - Text field, value for the Ice Foot Condition Type below.
+- **ICE_FOOT_CONDITION_TYPE** - Dropdown box, list of items describing Ice Foot Conditions.
+- **ICE_PUSH_RIDGE_CONDITION** - Text field, value for the Ice Push Ridge Condition Type below.
+- **ICE_PUSH_RIDGE_CONDITION_TYPE** - Dropdown box, list of items describing Ice Push Ridge Conditions.
+- **GROUNDED_FLOES_CONDITION** - Text field, value for the Grounded Floe Condition Type below.
+- **GROUNDED_FLOES_CONDITION_TYPE** - Dropdown box, list of items describing Grounded Floe Conditions.
+- **GLACIER_ICE_CONDITION** - Text field, value for the Glacier Ice Condition Type below.
+- **GLACIER_ICE_CONDITION_TYPE** - Dropdown box, list of items describing Glacier Ice Conditions.
+- **NEARSHORE_ICE_CONCENTRATION** - Dropdown box.
+- **NEARSHORE_ICE_FORM** - Dropdown box.
+- **NEARSHORE_ICE_AGE_AND_THICKNESS** - Dropdown box.
+- **FAST_ICE** - YES/NO.
+- **TIDAL_CRACKS** - YES/NO.
+- **SCAT_STATUS** - Dropdown box, status of segment as a result of this Observation.
  
 Zones
 --------

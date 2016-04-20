@@ -89,9 +89,9 @@ Observations are data collected for one Segment on one day by a team.  This is t
 - **ENTIRE_SEGMENT_SURVEYED** - YES/NO, was the entire segment surveyed?
 - **SURVEYED_AREAS_NOO** - YES/NO, areas that were surveyed without a zone are considered NOO.
 - **PERCENT_SEGMENT_SURVEYED** - Numeric field, % of segment surveyed.
-- **AVG_INTERTIDAL_WIDTH** - Numeric field
-- **MAX_INTERTIDAL_WIDTH** - Numeric field
-- **BACKSHORE_WIDTH** - Numeric field
+- **AVG_INTERTIDAL_WIDTH** - Numeric field.
+- **MAX_INTERTIDAL_WIDTH** - Numeric field.
+- **BACKSHORE_WIDTH** - Numeric field.
 - **UITZ_SHORELINE** - Dropdown box w/ multiple additions, UITZ shoreline type.
 - **UITZ_SHORELINE_TYPE** - PRIMARY/SECONDARY, qualifies the UTIZ shoreline types chosen above.
 - **LITZ_SHORELINE** - Dropdown box w/ multiple additions, LITZ shoreline type.
@@ -101,31 +101,29 @@ Observations are data collected for one Segment on one day by a team.  This is t
 - **OBSERVATION_ESI** - Dropdown box w/ multiple additions, ESI shoreline type.
 - **ESI_TYPE** - PRIMARY/SECONDARY, qualifies the ESI shoreline types chosen above.
 - **DOMINANT_VEGETATION_TYPE** - Text field, describes the dominant vegetation types present.
-- **DOMINANT_CORAL_TYPES** - Text field, describes the dominant coral types present.
 - **BACKSHORE** - Dropdown box w/ multiple additions, Backshore type.
 - **BACKSHORE_TYPE** - PRIMARY/SECONDARY, qualifies the Backshore types chosen above.
 - **STREAM_BED_FEATURE** - Dropdown box, stream bed character for River/Streams.
 - **RIVER_CHANNEL_PATTERN** - Dropdown box, channel pattern for River/Streams.
 - **RIVER_VALLEY_FORM** - Dropdown box, valley form for River/Streams.
-- **CLIFF_HEIGHT** - Numeric field
-- **CLIFF_SLOPE** - Dropdown box
-- **PRIMARY_BACKSHORE_SUBSTRATE_TYPE** - Dropdown box
+- **CLIFF_HEIGHT** - Numeric field.
+- **CLIFF_SLOPE** - Dropdown box.
+- **PRIMARY_BACKSHORE_SUBSTRATE_TYPE** - Dropdown box.
 - **BACKSHORE_VEGETATION_COVER** - Dropdown box, describes the vegetation cover in the backshore.
+- **SHORELINE_WAVES** - Dropdown box, wave height observed in cm.
 - **CHANNEL_WIDTH** - Numeric field, width of the River/Stream channel in meters.
 - **ESTIMATED_WATER_DEPTH** - Numeric field, depth of the River/Stream channel in meters.
 - **BAR_SHOAL_SUBSTRATE** - Dropdown box, substrate of Bar/Shoals if present.
-- **FEATURE**
-- **FEATURE_TYPE**
-- **OPERATIONAL_ACCESS**
-- **OPERATIONAL_ACCESS_TYPE**
-- **ACCESS_RESTRICTIONS_FEATURES**
-- **DEBRIS_AMOUNT**
-- **DEBRIS_AMOUNT_UNITS**
-- **OILED_DEBRIS**
-- **DEBRIS_TYPE**
-- **SURVEY_COMMENTS**
-- **SHORELINE_WAVES**
-- **OTHER_POTENTIAL_OIL_BEHAVIOR**
+- **FEATURE** - Dropdown box, list of Shoreline/River Features for Pre-Spill.
+- **FEATURE_TYPE** - YES/NO, confirmation of Features listed above.
+- **OPERATIONAL_ACCESS** - Dropdown box, Alongshore, Backshore and Backshore Staging Access items.
+- **OPERATIONAL_ACCESS_TYPE** - YES/NO, confirmation of Features listed above.
+- **ACCESS_RESTRICTIONS_FEATURES** - Text field, additional Access features/restrictions.
+- **DEBRIS_AMOUNT** - Numeric field.
+- **DEBRIS_AMOUNT_UNITS** - Dropdown box.
+- **OILED_DEBRIS** - YES/NO.
+- **DEBRIS_TYPE** - Dropdown box, list of primary debris type.
+- **SURVEY_COMMENTS** - Text field, summary comments for Observation.
 - **HUMAN_USE**
 - **AVG_WATER_DEPTH_CORAL**
 - **POTENTIAL_NEARBY_ACCESS**
@@ -151,6 +149,7 @@ Observations are data collected for one Segment on one day by a team.  This is t
 - **SHORELINE_TREATMENT_STRATEGIES**
 - **POTENTIAL_TREATMENT_OPTIONS**
 - **POTENTIAL_TREATMENT_OPTIONS_TYPE**
+- **OTHER_POTENTIAL_OIL_BEHAVIOR**
 - **SNOW_CONDITION**
 - **SNOW_CONDITION_TYPE**
 - **FROZEN_SPRAY_CONDITION**

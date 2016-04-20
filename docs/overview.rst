@@ -16,7 +16,7 @@ Key Features
 Logging In
 -------------
 
-Login in by using the link in the right hand corner.  To login you will need a username and password, which can be obtained by contacting the SCAT data manager,  Polaris personnel onsite or the contact below.
+Login by using the link in the right hand corner.  To login you will need a username and password, which can be obtained by contacting the SCAT data manager,  Polaris personnel onsite or the contact below.
 
 Contact
 ------------

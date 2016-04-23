@@ -1,16 +1,15 @@
-Team Lead Data Entry
+Team Lead Data Review
 =====================
 
-The Search Page provides multiple ways to filter and query PRISM data and multiple formats to export the data.  Search results are present in list form on the page and can be clicked on to view the assocaited data report.  Alternatively, the related data resources of the item or a map showing its location can be viewed instead.
+The items below outline the easiest data flow to follow for a team member to begin reviwing their data after uploading to PRISM.
 
-Clicking on the *Location Filter* initially will bring up the map and show all available data resources.  Additional features of the  *Location Filter* are discussed below.
+1. Was a new team member(s) created?
+---------------------------------
 
-**The search options below are additive and can be use singly or together to help refine the search.**
+If a team member(s) was not available in the list of members and you created a new one (adding name and phone number), add the additional information to the new personnel.
 
-Popular Searches
-------------
-
-*Popular Searches* are initially presented on the Search Page, allowing key searches to performed with a single click.
+- Go the *Search* page and in the *Search bar* at the top type in the new persons name
+- 
 
 Search bar
 --------

@@ -30,3 +30,30 @@ If a new Segment(s) was created during the Survey add additional information to 
 - The straight line that shows on the *Map* is drawn between the *Start* and *End* points created in the field
 - Use the cursor to click on and move the straight line to match the shoreline and create the Segment geometry
 - Click *Save* at the top (or *Discard* to start over)
+
+3. Upload GPX track file as a Media item
+-----------------------------------------
+
+- Download the **.GPX** file from your GPS or GPS app
+- Review the file in a GPS software (such as **XXXXX**)
+
+  * Make sure only today's data are part of the track (delete previous days track points)
+  * Make sure on the field portion of the track is saved (delete portions that were recorded in the ICP or on the road traveling)
+  
+- Save the file with a new name following this convention:  **YYYY-MM-DD_TEAM-#.gpx**
+- Create a new *Media* item for the GPX file
+
+  * Click on *Resource Manager* and then *Media*
+  * Upload the new GPX file
+  * Select today's date
+  * For **Media Type** select *GPS trackline*
+  * Add a **Caption** that includes the date and team
+  * Add a **Media Tag** that includes the Team number
+  * Leave the **Geometry** (Map) empty
+  * Click *Save* at the top (or *Discard* to start over)
+  
+4. Review Observation Data
+-----------------------------------------
+
+- Search
+

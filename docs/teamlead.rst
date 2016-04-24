@@ -1,7 +1,7 @@
 Team Lead Data Review Steps
 ============================
 
-The items below outline the easiest data flow to follow for the Team Lead to begin reviewing their data after uploading to PRISM.
+The steps below outline the easiest data flow to follow for the Team Lead to begin reviewing their data after uploading to PRISM.
 
 *If a new option needs to be added to any of the dropdown lists talk with the Polaris Database Manager or Administrator*
 

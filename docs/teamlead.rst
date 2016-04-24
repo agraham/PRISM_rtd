@@ -27,9 +27,10 @@ If a new Segment(s) was created during the Survey add additional information to 
 
   * Leave the **Segment Length** blank, with will auto fill when the Segment is adjusted on the Map
 
-- The straight line that shows on the *Map* is drawn between the *Start* and *End* points created in the field
-- Use the cursor to click on and move the straight line to match the shoreline and create the Segment geometry
+- Adjust the Segment geometry on the *Map*
 
+  * The straight line that shows on the *Map* is drawn between the *Start* and *End* points created in the field
+  * Use the cursor to click on and move the straight line to match the shoreline and modify the Segment geometry
   * Only change the Start/End points if absolutely necessary as these come from the GPS points collected in the field and should be fairly accurate
 
 - Click *Save* at the top (or *Discard* to start over)

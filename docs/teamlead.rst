@@ -1,5 +1,5 @@
-Team Lead Data Review
-=====================
+Team Lead Data Review Steps
+============================
 
 The items below outline the easiest data flow to follow for the Team Lead to begin reviewing their data after uploading to PRISM.
 

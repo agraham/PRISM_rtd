@@ -95,7 +95,7 @@ Review the Observation, Zone, Pit and Photo data collected in the field.
 
   * Go to the *Search* page and select the *Observations-DRAFT* search
   * This will show all Observations (including those by other teams) which have not been changed to *TL Approved*
-  * Refine the search by selecting the *Location Filter* at the top and zoom into the area you surveyed today, click on the *Map Tools* button and selecting *Limit search results to map extent*
+  * Refine the search by selecting the *Location Filter* at the top and zoom into the area you surveyed today, click on the *Map Tools* button and select *Limit search results to map extent*
   * This will help limit the search results to only those in the area you surveyed (although other Team's Observations may show up)
   * Check the Observation names, and if any of them are your Observations then repeat the steps above to review and change the **QA STATUS** to *TL Approved*
  

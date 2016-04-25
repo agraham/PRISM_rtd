@@ -59,5 +59,30 @@ If a new Segment(s) was created during the Survey add additional information to 
 4. Review Observation Data
 -----------------------------------------
 
-- Search
+Review the Observation, Zone, Pit and Photo data collected in the field.
 
+- Find today's Survey conducted by your team
+
+  * Go to the *Search* page and under *Popular Searches* select the search for Surveys by your team
+  * Click on *Time Filter* at the top and select *Survey Date*, *On*, and today's date
+  * Click on the Survey name in the Search results
+
+- The list of segment you visited will be at the top of the Survey report
+- Right click on a Segment and *Open in a new window* 
+- The Observation report for the Segment selected will open in a new window
+- Review all the data in the report to make sure it is correct and nothing is missing
+- To add/edit data for the **Observation** click on the *Edit* button at the top of the report
+
+  * Edit data in the Observation Edit form and then select *Save* at the top (or *Discard* to start over)
+  * Once saved close the window 
+  
+- To add/edit data for a **Zone or Pit** click on the *Edit* button associated with the record
+
+  * Edit data in the Zone or Pit Edit form and then select *Save* at the top (or *Discard* to start over)
+  * Once saved close the window 
+  
+- To add/edit data for a **Photo** click on the Photo and then the *Edit* at the top of the report
+
+  * Edit data in the Photo form and then select *Save* at the top (or *Discard* to start over)
+  * Once saved close the window 
+  

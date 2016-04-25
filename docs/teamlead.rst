@@ -67,8 +67,8 @@ Review the Observation, Zone, Pit and Photo data collected in the field.
   * Click on *Time Filter* at the top and select *Survey Date*, *On*, and today's date
   * Click on the Survey name in the Search results
 
-- The list of segment you visited will be at the top of the Survey report
-- Right click on a Segment and *Open in a new window* 
+- The list of Observations (by Segment) you visited will be at the top of the Survey report
+- Right click on an Observation and *Open in a new window* 
 - The Observation report for the Segment selected will open in a new window
 - Review all the data in the report to make sure it is correct and nothing is missing
 - To add/edit data for the **Observation** click on the *Edit* button at the top of the report
@@ -89,4 +89,15 @@ Review the Observation, Zone, Pit and Photo data collected in the field.
   * Once saved close the window
   * Refresh the Observation report to see the changes
   
+- If an Observation is complete (including associated Zones, Pits and Photos) edit the Observation and change the **QA STATUS** to *TL Approved* 
+- Repeat these steps for all of the Observations you completed today
+- Once completed, double check the **QA Status** of all your Observations
+
+  * Go to the *Search* page and select the *Observations-DRAFT* search
+  * This will show all Observations (including those by other teams) which have not been changed to *TL Approved*
+  * Refine the search by selecting the *Location Filter* at the top and zoom into the area you surveyed today, click on the *Map Tools* button and selecting *Limit search results to map extent*
+  * This will help limit the search results to only those in the area you surveyed (although other Team's Observations may show up)
+  * Check the Observation names, and if any of them are your Observations then repeat the steps above to review and change the **QA STATUS** to *TL Approved*
  
+
+  

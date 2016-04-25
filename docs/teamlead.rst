@@ -75,14 +75,18 @@ Review the Observation, Zone, Pit and Photo data collected in the field.
 
   * Edit data in the Observation Edit form and then select *Save* at the top (or *Discard* to start over)
   * Once saved close the window 
+  * Refresh the Observation report to see the changes
   
 - To add/edit data for a **Zone or Pit** click on the *Edit* button associated with the record
 
   * Edit data in the Zone or Pit Edit form and then select *Save* at the top (or *Discard* to start over)
   * Once saved close the window 
+  * Refresh the Observation report to see the changes
   
 - To add/edit data for a **Photo** click on the Photo and then the *Edit* at the top of the report
 
   * Edit data in the Photo form and then select *Save* at the top (or *Discard* to start over)
-  * Once saved close the window 
+  * Once saved close the window
+  * Refresh the Observation report to see the changes
   
+ 

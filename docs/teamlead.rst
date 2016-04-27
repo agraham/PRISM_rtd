@@ -99,5 +99,30 @@ Review the Observation, Zone, Pit and Photo data collected in the field.
   * This will help limit the search results to only those in the area you surveyed (although other Team's Observations may show up)
   * Check the Observation names, and if any of them are your Observations then repeat the steps above to review and change the **QA STATUS** to *TL Approved*
  
+5. Create STRs
+-----------------
 
-  
+Create any STRs that are necessary and relate them to the Zones they are associated with.
+
+- Click on *Resource Manager* and then *Shoreline Treatment Recommendation*
+- Set the **QA STATUS** to *Draft (TL Created)*
+- Set the **STR Number** to your team number with an incremental number at the end that counts up with each STR you create (i.e. Team1-001, Team1-002, etc.)
+- Fill in the appropriate STR data as necessary
+- Click *Save* at the top (or *Discard* to start over)
+- Relate the associated *Zones* to the *STR*
+
+  * Go back to the Observations(s) that the Zones are a part of
+  * Click on the *Edit* button next to the Zones and select *Related Resources* on the left
+  * Click on *Find Resources* in the upper right
+  * Click on *Attribute Filter* at the top and type in the STR number you just created in the *Search bar*
+  * Click *Add Relationship* next to the STR in the Search results
+  * Click the *Add* button and then *Save Edits*
+  * Do this for all Zones related to the STR
+ 
+- Repeat the process for each STR you create
+
+6. Update the Survey/Daily Summary report
+------------------------------------------
+
+The Survey/Daily Summary report is an overview of the activities for your team for the day, it doubles as a Survey report and the team summary.
+

@@ -24,9 +24,6 @@ If a new Segment(s) was created during the Survey add additional information to 
 - Go the *Search* page and in the *Search bar* at the top type in the new Segment ID
 - When the search result shows up click on *Edit* under the entry
 - On the *Edit form* add additional information if known
-
-  * Leave the **Segment Length** blank, with will auto fill when the Segment is adjusted on the Map
-
 - Adjust the Segment geometry on the *Map*
 
   * The straight line that shows on the *Map* is drawn between the *Start* and *End* points created in the field
@@ -126,3 +123,18 @@ Create any STRs that are necessary and relate them to the Zones they are associa
 
 The Survey/Daily Summary report is an overview of the activities for your team for the day, it doubles as a Survey report and the team summary.
 
+- Select the *Survey* you completed today and view the report
+- Review the data and click on the *Edit* button in the upper right to edit
+- Fill in additional information in the **Logistics/Safety** and **Survey Summary** sections
+- Add your GPX trackline to the map (this will show your trackline on the map)
+
+  * On the map click *Add Geometry*
+  * Select *Add from .gpx,.kml, or .geojson* and select the GPX file you saved in Step 3 above
+  
+- Relate the GPX media resource to the Survey
+
+  * Click *Related Resources* in the toolbar at the left
+  * Click on *Find Resources* in the upper right
+  * Click on *Attribute filter* at the top and type in the file name of the GPX file
+  * Click *Add Relationship* next to the file in the Search results
+  * Click the *Add* button and then *Save Edits*

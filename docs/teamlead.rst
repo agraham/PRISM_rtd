@@ -42,7 +42,7 @@ The **.GPX** file from your GPS or GPS app will be used in two locations: one it
 - Download the **.GPX** file from your GPS or GPS app
 - Review the file in a GPS software (such as `Garmin BaseCamp <http://www.garmin.com/en-US/shop/downloads/basecamp>`_)
 
-  * Make sure only today's data are part of the track (delete previous days track points)
+  * Make sure only today's data are part of the track (delete previous days track points), and delete unnecessary points (i.e. such as travel from the ICP to the start of the survey, etc.)
   
    * If using Garmin BaseCamp: under **Tools** use the **Erase** tool to delete points that you want to remove
    
@@ -63,7 +63,6 @@ The **.GPX** file from your GPS or GPS app will be used in two locations: one it
 - In addition to new GPX file saved above, save a filtered or reduced sized GPX file for uploading to the Survey Map (Step 6 below).  **File size needs to be < 130 KB**  Save the new file to the same folder as the file above and name the file with this convention: **YYYY-MM-DD_TEAM-#_filtered.gpx**
 
   * If using Garmin BaseCamp: Double click on the trackline in the lower left toolbar, select *Filter*, under *Filter by Time* change the value to at least 15 seconds, maybe even 20 or 25 seconds.  Once again, make sure the file size < 130KB.  Re-filter if necessary to get the file size small enough.
-  
 
 4. Review Observation Data
 -----------------------------------------

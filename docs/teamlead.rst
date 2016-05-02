@@ -32,8 +32,12 @@ If a new Segment(s) was created during the Survey add additional information to 
 
 - Click *Save* at the top (or *Discard* to start over)
 
-3a. Upload GPX track file as a Media item
------------------------------------------
+3. Edit, save, upload GPX file
+-------------------------------
+
+The **.GPX** file from your GPS or GPS app will be used in two locations: one it will be uploaded and associated with the Survey, allowing others to download the file if necessary; two it will added as the geometry (after decreasing the file size) for the Survey so others can quickly see the area surveyed on the Survey report.
+
+**3a - Edit and upload GPX file as a Media Resource**
 
 - Download the **.GPX** file from your GPS or GPS app
 - Review the file in a GPS software (such as `Garmin BaseCamp <http://www.garmin.com/en-US/shop/downloads/basecamp>`_)
@@ -54,8 +58,7 @@ If a new Segment(s) was created during the Survey add additional information to 
   * Leave the **Geometry** (Map) empty
   * Click *Save* at the top (or *Discard* to start over)
  
-3b. Save a reduced-size, filtered GPX file for use later (Step 6)
-------------------------------------------------------------------
+**3b - Save a reduced-size, filtered GPX file for use as Survey geometry (Step 6)**
 
 - In addition to new GPX file saved above, save a filtered or reduced sized GPX file for uploading to the Survey Map (Step 6 below).  **File size needs to be < 130 KB**  Save the new file to the same folder as the file above and name the file with this convention: **YYYY-MM-DD_TEAM-#_filtered.gpx**
 

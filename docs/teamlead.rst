@@ -40,7 +40,7 @@ If a new Segment(s) was created during the Survey add additional information to 
 
   * Make sure only today's data are part of the track (delete previous days track points)
   
-   *If using Garmin BaseCamp: under **Tools** use the **Erase** tool to delete points that you want to remove*
+   * If using Garmin BaseCamp: under **Tools** use the **Erase** tool to delete points that you want to remove
    
 - Save the file with a new name following this convention:  **YYYY-MM-DD_TEAM-#.gpx**
 - Create a new *Media* item for the GPX file

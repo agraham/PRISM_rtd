@@ -150,4 +150,11 @@ The Survey/Daily Summary report is an overview of the activities for your team f
 
 - Relate specific photos that represent the survey or examples of items discussed in the *Logistics/Safety* or *Survey Summary* sections
 
-  *
+  * Click *Related Resources* in the toolbar at the left
+  * Click on *Find Resources* in the upper right
+  * Click on *Attribute filter* at the top and type in the file name of the photo file, **OR**
+  * Use the *Map filter* to zoom into the location of the photo and find it
+  * Click *Add Relationship* next to the file in the Search results
+  * Click the *Add* button and then *Save Edits*
+  
+ 

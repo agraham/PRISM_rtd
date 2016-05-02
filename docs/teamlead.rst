@@ -36,7 +36,7 @@ If a new Segment(s) was created during the Survey add additional information to 
 -----------------------------------------
 
 - Download the **.GPX** file from your GPS or GPS app
-- Review the file in a GPS software (such as **XXXXX**)
+- Review the file in a GPS software (such as `Garmin Base Camp <http://www.garmin.com/en-US/shop/downloads/basecamp>`_)
 
   * Make sure only today's data are part of the track (delete previous days track points)
   * Make sure on the field portion of the track is saved (delete portions that were recorded in the ICP or on the road traveling)

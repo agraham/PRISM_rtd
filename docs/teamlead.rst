@@ -54,8 +54,8 @@ If a new Segment(s) was created during the Survey add additional information to 
   * Leave the **Geometry** (Map) empty
   * Click *Save* at the top (or *Discard* to start over)
  
-3b. Save a reduced-size, filtered GPX file for use later
----------------------------------------------------------
+3b. Save a reduced-size, filtered GPX file for use later (Step 6)
+------------------------------------------------------------------
 
 - In addition to new GPX file saved above, save a filtered or reduced sized GPX file for uploading to the Survey Map (Step 6 below).  **File size needs to be < 130 KB**  Save the new file to the same folder as the file above and name the file with this convention: **YYYY-MM-DD_TEAM-#_filtered.gpx**
 

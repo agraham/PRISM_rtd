@@ -32,7 +32,7 @@ If a new Segment(s) was created during the Survey add additional information to 
 
 - Click *Save* at the top (or *Discard* to start over)
 
-3. Upload GPX track file as a Media item
+3a. Upload GPX track file as a Media item
 -----------------------------------------
 
 - Download the **.GPX** file from your GPS or GPS app
@@ -40,22 +40,28 @@ If a new Segment(s) was created during the Survey add additional information to 
 
   * Make sure only today's data are part of the track (delete previous days track points)
   
-   ** If using Garmin BaseCamp: under *Tools* use the *Erase* tool to delete points that you want to remove
+   *If using Garmin BaseCamp: under **Tools** use the **Erase** tool to delete points that you want to remove*
    
-  * Make sure on the field portion of the track is saved (delete portions that were recorded in the ICP or on the road traveling)
-  
 - Save the file with a new name following this convention:  **YYYY-MM-DD_TEAM-#.gpx**
 - Create a new *Media* item for the GPX file
 
   * Click on *Resource Manager* and then *Media*
-  * Upload the new GPX file
+  * Upload the new *full-sized* (not filtered) GPX file
   * Select today's **Date**
   * For **Media Type** select *GPS trackline*
   * Add a **Caption** that includes the date and team
   * Add a **Media Tag** that includes the Team number
   * Leave the **Geometry** (Map) empty
   * Click *Save* at the top (or *Discard* to start over)
+ 
+3b. Save a reduced-size, filtered GPX file for use later
+---------------------------------------------------------
+
+- In addition to new GPX file saved above, save a filtered or reduced sized GPX file for uploading to the Survey Map (Step 6 below).  **File size needs to be < 130 KB**  Save the new file to the same folder as the file above and name the file with this convention: **YYYY-MM-DD_TEAM-#_filtered.gpx**
+
+  * If using Garmin BaseCamp: Double click on the trackline in the lower left toolbar, select *Filter*, under *Filter by Time* change the value to at least 15 seconds, maybe even 20 or 25 seconds.  Once again, make sure the file size < 130KB.  Re-filter if necessary to get the file size small enough.
   
+
 4. Review Observation Data
 -----------------------------------------
 
@@ -132,12 +138,16 @@ The Survey/Daily Summary report is an overview of the activities for your team f
 - Add your GPX trackline to the map (this will show your trackline on the map)
 
   * On the map click *Add Geometry*
-  * Select *Add from .gpx,.kml, or .geojson* and select the GPX file you saved in Step 3 above
+  * Select *Add from .gpx,.kml, or .geojson* and select the **filtered** GPX file you saved in Step 3b above (this is the smaller filtered file)
   
-- Relate the GPX media resource to the Survey
+- Relate the GPX media resource to the Survey (created in Step 3a above)
 
   * Click *Related Resources* in the toolbar at the left
   * Click on *Find Resources* in the upper right
   * Click on *Attribute filter* at the top and type in the file name of the GPX file
   * Click *Add Relationship* next to the file in the Search results
   * Click the *Add* button and then *Save Edits*
+
+- Relate specific photos that represent the survey or examples of items discussed in the *Logistics/Safety* or *Survey Summary* sections
+
+  *

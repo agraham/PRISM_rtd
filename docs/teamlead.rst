@@ -141,6 +141,7 @@ The Survey/Daily Summary report is an overview of the activities for your team f
 
   * On the map click *Add Geometry*
   * Select *Add from .gpx,.kml, or .geojson* and select the **filtered** GPX file you saved in Step 3b above (this is the smaller filtered file)
+  *Click *Save Edits*
   
 - Relate the GPX media resource to the Survey (created in Step 3a above)
 

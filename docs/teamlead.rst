@@ -35,7 +35,7 @@ If a new Segment(s) was created during the Survey add additional information to 
 3. Edit, save, upload GPX file
 -------------------------------
 
-The **.GPX** file from your GPS or GPS app will be used in two locations: one it will be uploaded and associated with the Survey, allowing others to download the file if necessary; two it will added as the geometry (after decreasing the file size) for the Survey so others can quickly see the area surveyed on the Survey report.
+The **.GPX** file from your GPS or GPS app will be used in two locations: one it will be uploaded as a Media Resource and associated with the Survey, allowing others to download the file if necessary; two it will added as the geometry (after decreasing the file size) for the Survey so others can quickly see the area surveyed on the Survey report.
 
 **3a - Edit and upload GPX file as a Media Resource**
 

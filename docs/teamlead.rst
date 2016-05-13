@@ -147,7 +147,7 @@ The Survey/Daily Summary report is an overview of the activities for your team f
 
   * Click *Related Resources* in the toolbar at the left
   * Click on *Find Resources* in the upper right
-  * Click on *Attribute filter* at the top and type in *GPS file* and select the Media Type
+  * Click on *Attribute filter* at the top and type in *GPS file* and select the Media Type, type in the Team number and select the corresponding Media Tag
   * Use the *Time filter* to filter by Media Date 
   * Click *Add Relationship* next to the file in the Search results
   * Click the *Add* button and then *Save Edits*
@@ -156,8 +156,9 @@ The Survey/Daily Summary report is an overview of the activities for your team f
 
   * Click *Related Resources* in the toolbar at the left
   * Click on *Find Resources* in the upper right
-  * Use the *Map filter* to zoom into the location of the photo 
-  * Use the *Time filter* to filter by Media Date
+  * Click on *Map filter* to zoom into the location of the photo 
+  * Click on *Time filter* to filter by Media Date
+  * Click on *Attribute filter* to filter by Team number
   * Find the photo to relate
   * Click *Add Relationship* next to the file in the Search results
   * Click the *Add* button and then *Save Edits*

@@ -147,7 +147,7 @@ The Survey/Daily Summary report is an overview of the activities for your team f
 
   * Click *Related Resources* in the toolbar at the left
   * Click on *Find Resources* in the upper right
-  * Click on *Attribute filter* at the top and type in *GPS file* and select the Media Tag
+  * Click on *Attribute filter* at the top and type in *GPS file* and select the Media Type
   * Use the *Time filter* to filter by Media Date 
   * Click *Add Relationship* next to the file in the Search results
   * Click the *Add* button and then *Save Edits*

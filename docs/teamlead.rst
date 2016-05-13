@@ -147,7 +147,8 @@ The Survey/Daily Summary report is an overview of the activities for your team f
 
   * Click *Related Resources* in the toolbar at the left
   * Click on *Find Resources* in the upper right
-  * Click on *Attribute filter* at the top and type in the file name of the GPX file
+  * Click on *Attribute filter* at the top and type in *GPS file* and select the Media Tag
+  * Use the *Time filter* to filter by Media Date 
   * Click *Add Relationship* next to the file in the Search results
   * Click the *Add* button and then *Save Edits*
 
@@ -155,8 +156,9 @@ The Survey/Daily Summary report is an overview of the activities for your team f
 
   * Click *Related Resources* in the toolbar at the left
   * Click on *Find Resources* in the upper right
-  * Click on *Attribute filter* at the top and type in the file name of the photo file, **OR**
-  * Use the *Map filter* to zoom into the location of the photo and find it
+  * Use the *Map filter* to zoom into the location of the photo 
+  * Use the *Time filter* to filter by Media Date
+  * Find the photo to relate
   * Click *Add Relationship* next to the file in the Search results
   * Click the *Add* button and then *Save Edits*
   

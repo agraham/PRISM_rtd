@@ -51,7 +51,7 @@ The **.GPX** file from your GPS or GPS app will be used in two locations: one it
 
   * Click on *Resource Manager* and then *Media*
   * Upload the new *full-sized* (not filtered) GPX file
-  * Select today's **Date**
+  * Select today's (survey day) **Date**
   * For **Media Type** select *GPS trackline*
   * Add a **Caption** that includes the date and team
   * Add a **Media Tag** that includes the Team number

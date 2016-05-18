@@ -160,7 +160,7 @@ The Survey/Daily Summary report is an overview of the activities for your team f
  - Click *Add Relationship* next to the file in the Search results
  - Click the *Add* button and then *Save Edits*
 
-- Relate specific photos that represent the survey or examples of items discussed in the *Logistics/Safety* or *Survey Summary* sections
+**Relate specific photos that represent the survey or examples of items discussed in the *Logistics/Safety* or *Survey Summary* sections**
 
  - Click *Related Resources* in the toolbar at the left
  - Click on *Find Resources* in the upper right

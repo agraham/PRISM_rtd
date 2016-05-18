@@ -35,9 +35,7 @@ If a new Segment(s) was created during the Survey add additional information to 
 3. Edit, save, upload GPX file
 -------------------------------
 
-The **.GPX** file from your GPS or GPS app will be used in two locations: one it will be uploaded as a Media Resource and associated with the Survey, allowing others to download the file if necessary; two it will added as the geometry (after decreasing the file size) for the Survey so others can quickly see the area surveyed on the Survey report.
-
-**3a - Edit and upload GPX file as a Media Resource**
+The **.GPX** file from your GPS or GPS app will be used as a Media Resource and associated with the Survey, allowing others to download the file if necessary.
 
 - Download the **.GPX** file from your GPS or GPS app
 - Review the file in a GPS software (such as `Garmin BaseCamp <http://www.garmin.com/en-US/shop/downloads/basecamp>`_)
@@ -58,16 +56,13 @@ The **.GPX** file from your GPS or GPS app will be used in two locations: one it
   * Leave the **Geometry** (Map) empty
   * Click *Save* at the top (or *Discard* to start over)
  
-**3b - Save a reduced-size, filtered GPX file for use as Survey geometry (Step 6)**
-
-- In addition to new GPX file saved above, save a filtered or reduced sized GPX file for uploading to the Survey Map (Step 6 below).  **File size needs to be < 130 KB**  Save the new file to the same folder as the file above and name the file with this convention: **YYYY-MM-DD_TEAM-#_filtered.gpx**
-
-  * If using Garmin BaseCamp: Double click on the trackline in the lower left toolbar, select *Filter*, under *Filter by Time* change the value to at least 15 seconds, maybe even 20 or 25 seconds.  Once again, make sure the file size < 130KB.  Re-filter if necessary to get the file size small enough.
 
 4. Review Observation Data
 -----------------------------------------
 
-Review the Observation, Zone, Pit and Photo data collected in the field.
+Review the Observations, Zones, Pits and Photos data collected in the field.  If the data are accurate change the **QA STATUS** of the Observation.
+
+**Review Observations**
 
 - Find today's Survey conducted by your team
 
@@ -84,19 +79,25 @@ Review the Observation, Zone, Pit and Photo data collected in the field.
   * Edit data in the Observation Edit form and then select *Save* at the top (or *Discard* to start over)
   * Once saved close the window 
   * Refresh the Observation report to see the changes
-  
+
+**Review Zones/Pits** 
+
 - To add/edit data for a **Zone or Pit** click on the *Edit* button associated with the record
 
   * Edit data in the Zone or Pit Edit form and then select *Save* at the top (or *Discard* to start over)
   * Once saved close the window 
   * Refresh the Observation report to see the changes
-  
+
+**Review Photos**
+
 - To add/edit data for a **Photo** click on the Photo and then the *Edit* at the top of the report
 
   * Edit data in the Photo form and then select *Save* at the top (or *Discard* to start over)
   * Once saved close the window
   * Refresh the Observation report to see the changes
-  
+ 
+**Change QA STATUS to TL Approved**
+
 - If an Observation is complete (including associated Zones, Pits and Photos) edit the Observation and change the **QA STATUS** to *TL Approved* 
 - Repeat these steps for all of the Observations you completed today
 - Once completed, double check the **QA Status** of all your Observations
@@ -110,7 +111,9 @@ Review the Observation, Zone, Pit and Photo data collected in the field.
 5. Create STRs
 -----------------
 
-Create any STRs that are necessary and relate them to the Zones they are associated with.
+Create any STRs that are necessary and relate them to the Zones they are associated with.  Relate yourself to the STR as the creator of the STR.
+
+**Create STR**
 
 - Click on *Resource Manager* and then *Shoreline Treatment Recommendation*
 - Set the **QA STATUS** to *Draft (TL Created)*
@@ -129,38 +132,44 @@ Create any STRs that are necessary and relate them to the Zones they are associa
  
 - Repeat the process for each STR you create
 
+**Relate yourself to the STR**
+
+- In the edit form for the **STR**, click on *Related Resources* on the left
+- Click on *Find Resources* in the upper right
+- Click on *Attribute Filter* at the top and enter your name
+- Next to your name in the Search results click on *Add Relationship*
+- Click the *Add* button and then *Save Edits*
+
 6. Update the Survey/Daily Summary report
 ------------------------------------------
 
-The Survey/Daily Summary report is an overview of the activities for your team for the day, it doubles as a Survey report and the team summary.
+The Survey/Daily Summary report is an overview of the activities for your team for the day, it doubles as a Survey report and the team summary.  Add additional Survey information, relate the GPX file and relate selected Photos for the report.
+
+**Add Survey information**
 
 - Select the *Survey* you completed today and view the report
 - Review the data and click on the *Edit* button in the upper right to edit
 - Fill in additional information in the **Logistics/Safety** and **Survey Summary** sections
-- Add your GPX trackline to the map (this will show your trackline on the map)
 
-  * On the map click *Add Geometry*
-  * Select *Add from .gpx,.kml, or .geojson* and select the **filtered** GPX file you saved in Step 3b above (this is the smaller filtered file)
-  *Click *Save Edits*
-  
-- Relate the GPX media resource to the Survey (created in Step 3a above)
+**Relate the GPX media resource to the Survey (created in Step 3 above)**
 
-  * Click *Related Resources* in the toolbar at the left
-  * Click on *Find Resources* in the upper right
-  * Click on *Attribute filter* at the top and type in *GPS file* and select the Media Type, type in the Team number and select the corresponding Media Tag
-  * Use the *Time filter* to filter by Media Date 
-  * Click *Add Relationship* next to the file in the Search results
-  * Click the *Add* button and then *Save Edits*
+ - Click *Related Resources* in the toolbar at the left
+ - Click on *Find Resources* in the upper right
+ - Click on *Attribute filter* at the top and type in *GPS file* and select the Media Type, type in the Team number and select the corresponding Media Tag
+ - Use the *Time filter* to filter by Media Date 
+ - Click *Add Relationship* next to the file in the Search results
+ - Click the *Add* button and then *Save Edits*
 
 - Relate specific photos that represent the survey or examples of items discussed in the *Logistics/Safety* or *Survey Summary* sections
 
-  * Click *Related Resources* in the toolbar at the left
-  * Click on *Find Resources* in the upper right
-  * Click on *Map filter* to zoom into the location of the photo 
-  * Click on *Time filter* to filter by Media Date
-  * Click on *Attribute filter* to filter by Team number
-  * Find the photo to relate
-  * Click *Add Relationship* next to the file in the Search results
-  * Click the *Add* button and then *Save Edits*
+ - Click *Related Resources* in the toolbar at the left
+ - Click on *Find Resources* in the upper right
+ - Click on *Map filter* to zoom into the location of the photo 
+ - Click on *Time filter* to filter by Media Date
+ - Click on *Attribute filter* to filter by Team number
+ - Find the photo to relate
+ - Click *Add Relationship* next to the file in the Search results
+ - Click the *Add* button and then *Save Edits*
+ *Note: It is worthwhile to edit captions of the selected photos to include the Segment ID in someway, so that it is apparent what the photos in the report relate to.*
   
  

@@ -71,22 +71,20 @@ Review the Observations, Zones, Pits and Photos data collected in the field.  If
   * Click on the Survey name in the Search results
 
 - The list of Observations (by Segment) you visited will be at the top of the Survey report
-- Right click on an Observation and *Open in a new window* 
+- Click on the Segment of the Observation you would like to edit 
 - The Observation report for the Segment selected will open in a new window
 - Review all the data in the report to make sure it is correct and nothing is missing
 - To add/edit data for the **Observation** click on the *Edit* button at the top of the report
 
   * Edit data in the Observation Edit form and then select *Save* at the top (or *Discard* to start over)
-  * Once saved close the window 
-  * Refresh the Observation report to see the changes
+  * Click on the Observation name at the top of the page
 
 **Review Zones/Pits** 
 
 - To add/edit data for a **Zone or Pit** click on the *Edit* button associated with the record
 
   * Edit data in the Zone or Pit Edit form and then select *Save* at the top (or *Discard* to start over)
-  * Once saved close the window 
-  * Refresh the Observation report to see the changes
+  * Click on the Zone or Pit name at the top of the page
 
 **Review Photos**
 

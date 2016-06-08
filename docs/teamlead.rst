@@ -12,7 +12,10 @@ If a team member(s) was not available in the list of members and you created a n
 
 - Go the *Search* page and in the *Search bar* at the top type in the new persons name and click on the dropdown option
 .. image:: actor1.PNG
+
 - When the search result shows up click on *Edit* under the entry
+.. image:: actor2.PNG
+
 - On the *Edit form* add the team member's **Organization**, **Role**, **Email Address** and **Phone Number** if necessary
 - If a new option needs to be added to any of the dropdown lists talk with the Polaris Database Manager or Administrator
 - Click *Save* at the top (or *Discard* to start over)
